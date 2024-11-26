@@ -8,8 +8,9 @@ import Experience from './component/Experience'
 import Skills from './component/Skills'
 import Projects from './component/Projects'
 import Contact from './component/Contact'
-import Aos from 'aos'
-import "aos/dist/aos.css"
+import AOS from 'aos';
+import 'aos/dist/aos.css'; // Include CSS for AOS animations
+
 
 function App() {
     useEffect(()=>{

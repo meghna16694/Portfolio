@@ -3,8 +3,9 @@ import { FaInstagramSquare } from "react-icons/fa";
 import { CiFacebook } from "react-icons/ci";
 import { FaLinkedin } from "react-icons/fa";
 import { FaTwitterSquare } from "react-icons/fa";
-import { FaGithub } from "react-icons/fa6";
+import { FaGithub } from "react-icons/fa"; // Corrected this line
 import { SiGmail } from "react-icons/si";
+
 
 const Contact = () => {
   return (
